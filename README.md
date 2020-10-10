@@ -63,5 +63,3 @@ Note: In order to use this pre-trained model, you must run with following flags:
 ### Other dataset
 Our package also support the inria dataset. Some detection examples are shown as following: 
 <div align=center><img src="pictures/inria.png"></div>
-
-
